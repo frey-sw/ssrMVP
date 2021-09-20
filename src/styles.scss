@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: var(--main-background-color);
+}
+
+:root {
+  --main-background-color: hsla(0, 32%, 25%, 0.801);
+  --main-text-color: hsl(12, 88%, 56%);
+  --main-accent-color: hsl(37, 74%, 85%);
+  --main-success-color: hsl(180, 83%, 32%);
+  --main-lock-color: hsl(181, 73%, 26%);
+}
